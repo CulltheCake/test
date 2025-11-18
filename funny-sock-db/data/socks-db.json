@@ -1,0 +1,29 @@
+[ {
+  "id" : "f7e503a7-bec3-4935-8085-8a8e99813aff",
+  "name" : "Banana Ducks",
+  "color" : "yellow",
+  "pattern" : "ducks",
+  "size" : "M",
+  "notes" : "funny"
+}, {
+  "id" : "1d4a1a4d-147f-4783-8954-97905634d9fa",
+  "name" : "Space Cats",
+  "color" : "black",
+  "pattern" : "stars",
+  "size" : "L",
+  "notes" : "glow"
+}, {
+  "id" : "d465e431-75f4-475f-b73c-adde71439bed",
+  "name" : "Banana Ducks",
+  "color" : "yellow",
+  "pattern" : "ducks",
+  "size" : "M",
+  "notes" : "funny"
+}, {
+  "id" : "b02486e1-44f0-49a8-907a-96e27719952b",
+  "name" : "Space Cats",
+  "color" : "black",
+  "pattern" : "stars",
+  "size" : "L",
+  "notes" : "glow"
+} ]
